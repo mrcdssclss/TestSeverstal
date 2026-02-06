@@ -33,6 +33,3 @@ The main goal was to create a **basic backend application for a veterinary clini
 2. Update `application.properties` with your database credentials.  
 3. Run the application: mvn spring-boot:run
 4. Use Postman or curl to interact with the API.
-
-```bash
-
