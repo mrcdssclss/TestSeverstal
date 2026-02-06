@@ -23,8 +23,6 @@ The main goal was to create a **basic backend application for a veterinary clini
   - Appointments  
 - Backend only, **no UI provided**.
 
-> 💡 **Note:** To test the application, use **Postman** or **curl** to send HTTP requests.
-
 ---
 
 ## How to Run
